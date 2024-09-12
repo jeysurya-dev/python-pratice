@@ -1,0 +1,17 @@
+EmployeeID,Firstname,Lastname,DateOfBirth,Gender,DepartmentID,DepartmentID,DepartmentName
+44,sri,haritha,2004-06-17,F,11,11,Engineering
+41,jey,prasath,2001-06-17,M,11,11,Engineering
+42,senjay,surya,2003-06-18,M,12,12,arts
+46,sherya,ghoshal,2003-07-19,M,13,13,sales
+43,arun,kumar,2001-07-19,M,13,13,sales
+45,jey,harsha,2002-09-25,F,14,14,marketing
+NULL,NULL,NULL,NULL,NULL,NULL,15,"Human resources"
+NULL,NULL,NULL,NULL,NULL,NULL,16,IT
+44,sri,haritha,2004-06-17,F,11,11,Engineering
+41,jey,prasath,2001-06-17,M,11,11,Engineering
+42,senjay,surya,2003-06-18,M,12,12,arts
+46,sherya,ghoshal,2003-07-19,M,13,13,sales
+43,arun,kumar,2001-07-19,M,13,13,sales
+45,jey,harsha,2002-09-25,F,14,14,marketing
+NULL,NULL,NULL,NULL,NULL,NULL,15,"Human resources"
+NULL,NULL,NULL,NULL,NULL,NULL,16,IT
